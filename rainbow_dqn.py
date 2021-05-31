@@ -10,7 +10,7 @@ DEFAULT_CONFIG = with_common_config({
     # this is greater than 1, distributional Q-learning is used.
     # the discrete supports are bounded by v_min and v_max
     "num_atoms": 51,
-    "v_min": 0
+    "v_min": 0,
     "v_max": 10.0,
     # Whether to use noisy network
     "noisy": True,
