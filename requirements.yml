@@ -52,6 +52,7 @@ dependencies:
     - click==8.0.1
     - cloudpickle==1.6.0
     - colorama==0.4.4
+    - colorful==0.5.4
     - configparser==5.0.2
     - cycler==0.10.0
     - dm-tree==0.1.6
